@@ -1,6 +1,8 @@
 Welcome to our organization that builds open source Golang projects on GitHub! We're thrilled to have you here. Below you'll find some important information to help you get started.
 
-
+<p align="right">
+  <img src="https://github.com/golangFame/.github/assets/24226219/58f6a2dd-132c-418c-b96b-3811924ea8ba" alt="icon description" width="200" height="200" style="display: block; margin: 0 auto;">
+</p>
 
 ## Our Mission
 
