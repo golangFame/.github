@@ -16,8 +16,8 @@ We welcome contributions from anyone, regardless of their level of experience wi
 
 We have several Golang projects on GitHub that you can contribute to. Here are a few of our most popular projects:
 
--   Image Slicer: A Golang library for performing image processing such as slicing images, combining images etc.
--   dbresolver: A Golang wrapper that handles multiple db replicas for any multiple database connections topology
+-   [Image Slicer](https://github.com/golangFame/imageslicer): A Golang library for performing image processing such as slicing images, combining images etc.
+-   [dbresolver](https://github.com/golangFame/dbresolver): A Golang wrapper that handles multiple db replicas for any multiple database connections topology
 
 
 All of our projects are open source and available on GitHub, so feel free to check them out and contribute!
