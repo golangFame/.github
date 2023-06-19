@@ -29,7 +29,7 @@ Version:
 CommitSha: 
 </pre>
 
-### Does this issue reproduce with the latest release of `dbresolver`?
+### Does this issue reproduce with the latest release ?
 
 ### What operating system and processor architecture are you using (`go env`)?
 
