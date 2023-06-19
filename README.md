@@ -31,3 +31,5 @@ If you need help with any of our projects, or if you have questions about how to
 We expect all contributors to adhere to our code of conduct, which is designed to create a welcoming and inclusive community. You can find our code of conduct on our website.
 
 Thank you for your interest in our organization, and we look forward to working with you!
+
+<!-- https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file -->
