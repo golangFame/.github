@@ -1,0 +1,21 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+We take the security of our project seriously. If you believe you have found a security vulnerability, please follow these steps to report it:
+
+1. **Do not** publicly disclose the vulnerability. Please ensure it remains confidential until we have had a chance to address it.
+2. Send an email to [laciferin@gmail.com](mailto:laciferin@gmail.com) with a detailed description of the vulnerability. Include steps to reproduce, the impact of the vulnerability, and any other relevant information.
+3. We will review your report and respond as quickly as possible, acknowledging receipt of your report.
+4. Once we have assessed the vulnerability, we will work with you to address it and determine an appropriate disclosure timeline.
+
+## Guidelines
+
+To help ensure a smooth and efficient handling of security reports, please adhere to the following guidelines:
+
+- Provide as much detail as possible about the vulnerability, including the affected components, the potential impact, and any necessary steps to reproduce or exploit it.
+- If you are aware of any potential mitigations or workarounds, please share them with us.
+- Please allow us a reasonable amount of time to investigate and address the reported vulnerability before disclosing it to the public or third parties.
+
+We greatly appreciate your assistance in maintaining the security of our project. Your contributions help ensure a safe and reliable experience for all users.
+
