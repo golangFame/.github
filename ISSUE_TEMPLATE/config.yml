@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Questions
     about: Please use discussions
-    url: https://github.com/bxcodec/dbresolver/discussions
+    url: https://github.com/golangFame/<project>/discussions

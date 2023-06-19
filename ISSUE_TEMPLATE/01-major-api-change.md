@@ -1,8 +1,8 @@
 ---
 name: Major Change Proposals
-about: Changes to the `dbresolver`
-title: "proposal: DBResolver 3.x: "
-labels: Proposal DBResolver Major Changes
+about: Major Changes
+title: "proposal: "
+labels: Proposal  Major Changes
 ---
 
 ### Author background
@@ -33,7 +33,7 @@ labels: Proposal DBResolver Major Changes
 
 ### Costs
 
-- **Would this change make it easier or harder to use `dbresolver`**
+- **Would this change make it easier or harder to use**
 - **What is the cost of this proposal? [Optional]**
 - **How many functions would be affected by this change?**
 - **What is the compile time cost? [Optional]**

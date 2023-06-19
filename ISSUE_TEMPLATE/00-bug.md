@@ -1,8 +1,8 @@
 ---
 name: Bugs
-about: DBResolver Pkg
-title: "dbresolver/<affected functions>"
-package: `bxcodec/dbresolver`
+about: <Project Name>
+title: "project/<affected functions>"
+package: `golangFame/<pkg>`
 ---
 
 <!--
@@ -16,28 +16,13 @@ $ go version
 
 </pre>
 
-### What version of `bxcodec/dbresolver` are you using?
+### What version are you using?
 
 <details><summary><code>go mod</code> Output</summary><br><pre>
-$ go list -m github.com/bxcodec/dbresolver/v2  
+$ go list -m github.com/golangFame/...
 
 </pre></details>
 
-<!-- 
-```go
-package main
-
-import (
-	"fmt"
-	"github.com/bxcodec/dbresolver/v2"
-)
-
-func main() {
-	fmt.Printf("Version: %s\n", dbresolver.Version)
-	fmt.Printf("CommitSha: %s\n", dbresolver.Commit)
-}
-```
--->
 
 <pre>
 Version: 
